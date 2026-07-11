@@ -1,0 +1,14 @@
+{
+  "hero": {
+    "badge": "🚀 AI Career Operating System",
+    "title": "Build your career with AI",
+    "subtitle": "CareerOS creates your personalized roadmap, tracks your progress and helps you land your next job.",
+    "start": "Get Started",
+    "demo": "View Demo"
+  },
+  "navbar": {
+    "features": "Features",
+    "pricing": "Pricing",
+    "login": "Login"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "hero": {
+    "badge": "🚀 Sistem AI pentru dezvoltarea carierei",
+    "title": "Construiește-ți cariera cu AI",
+    "subtitle": "CareerOS creează un plan personalizat, urmărește progresul tău și te ajută să obții jobul dorit.",
+    "start": "Începe acum",
+    "demo": "Vezi demonstrația"
+  },
+  "navbar": {
+    "features": "Funcționalități",
+    "pricing": "Prețuri",
+    "login": "Autentificare"
+  }
+}
