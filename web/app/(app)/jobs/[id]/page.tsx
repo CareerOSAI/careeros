@@ -14,7 +14,7 @@ import JobAttachments from "@/components/jobs/JobsAttachments";
 import JobRecruiter from "@/components/jobs/JobRecruiter";
 import EditJobModal from "@/components/jobs/EditJobModal";
 import DeleteJobModal from "@/components/jobs/DeleteJobModal";
-
+import JobAIInsights from "@/components/jobs/JobAIInsights";
 export default function JobDetailsPage() {
   const params = useParams();
   const router = useRouter();
@@ -75,7 +75,7 @@ export default function JobDetailsPage() {
       <JobRecruiter job={job} />
 
       <JobTimeline job={job} />
-
+      <JobAIInsights job={job} />
       <EditJobModal
         open={isEditOpen}
         job={job}
